@@ -1,4 +1,0 @@
-analysis.txt
-README.md
-test1
-test2
